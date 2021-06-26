@@ -27,8 +27,8 @@ function setup(){
  boy.addAnimation("boyanimation", boyimage);
  boy.scale = 0.1;
 
- leftEdge = createSprite (3,200,10,400);
- rightEdge = createSprite (397,200,10,400);
+ leftEdge = createSprite (100,200,10,400);
+ rightEdge = createSprite (100,200,10,400);
 }
 
 function draw() {
